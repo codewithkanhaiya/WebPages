@@ -1,0 +1,92 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>CLACULATER</title>
+<style>
+    #outer
+    {
+        height:700px;
+        width: 500px;
+        background-color: rgb(4, 4, 251);
+        box-shadow: 6px -4px rgb(69, 60, 110);
+        float: left;
+        text-align: center;
+        font-size: 55px;
+        font-family: digital-clock-font ;
+        color: white;
+        border-radius:10px;
+    }
+    .display
+    {
+        height:100px;
+        width: 450px;
+        background-color: black;
+        margin:25px 25px ;
+        box-shadow: -5px 4px rgb(76, 74, 74);
+        color:white;
+        font-size: 90px;
+        text-align: right;
+        font-family: digital-clock-font ;
+        border-radius:10px;
+      
+    }
+
+    .row
+    {
+        height: 540px;
+        width: 450px;
+        background-color: aquamarine;
+        margin:auto;
+        border-radius: 10px;
+        box-shadow: 6px -6px rgb(102, 124, 133);
+    }
+    .but
+    {
+        height: 80px;
+        width: 120px;
+        background-color: skyblue;
+        margin: 15px 15px 12px 5px;
+        margin-left: 15px;
+        float: left;
+        line-height: 80px;
+        box-shadow: 3px -5px rgb(102, 124, 133);
+        border-radius: 10px;
+
+
+    }
+    .but:hover
+    {
+        background-color: gray;
+    }
+</style>
+
+</head>
+<body>
+    <div id="outer">
+        <div class="display">413</div>
+        <div class="row">
+            <div class="but">7</div>
+            <div class="but">8</div>
+            <div class="but">9</div>
+            <div class="but">4</div>
+            <div class="but">5</div>
+            <div class="but">6</div>
+            <div class="but">1</div>
+            <div class="but">2</div>
+            <div class="but">3</div>
+            <div class="row1">
+                <div class="but">0</div>
+                <div class="but" style="width: 270px;">+</div>
+            </div>
+            <div class="row1">
+                <div class="but">C</div>
+                <div class="but" style="width: 270px;background-color: blueviolet;">=</div>
+            </div>
+        </div>
+        
+    </div>
+</body>
+</html>
