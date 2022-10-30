@@ -2,7 +2,7 @@
 
 ----
 
-This repository contain projects made by me while Techpile Apprenticeship program.
+This repository has projects that I created while enrolled in the Techpile Apprenticeship Program.
 
 ## College Website
 
