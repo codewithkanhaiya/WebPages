@@ -28,3 +28,26 @@ This repository contain projects made by me while Techpile Apprenticeship progra
 
 - View only Desktop or likewise screen.
 
+## Currency Converter
+
+----
+
+- Currency Converter [Website](https://codewithkanhaiya.github.io/WebPages/Currency%20Convertor/)
+
+- This is Currency Converter made using html css.
+
+- This is responsive website.
+
+- View in Desktop or Mobile screen.
+
+## Chase Website
+
+----
+
+- Chase [Website](https://codewithkanhaiya.github.io/WebPages/Keyboard_Calculater_Chase/08oct2022task1(chase).html)
+
+- This is Chase Website made by me, using html css.
+
+- This is not responsive website.
+
+- View only Desktop or likewise screen.
