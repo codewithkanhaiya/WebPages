@@ -8,7 +8,7 @@ This repository contain projects made by me while Techpile Apprenticeship progra
 
 ----
 
-- College [Website](https://codewithkanhaiya.github.io/WebPages/GP%20AADAMPUR%20TARABGANJ%20GONDA/gpa.html)
+- College [Website](https://techkanhaiya.github.io/WebPages/GP%20AADAMPUR%20TARABGANJ%20GONDA/gpa.html)
 
 - This is my College Website made by me, using html css.
 
@@ -20,7 +20,7 @@ This repository contain projects made by me while Techpile Apprenticeship progra
 
 ----
 
-- Dental Clinic [Website](https://codewithkanhaiya.github.io/WebPages/clinic-website/task1.htm)
+- Dental Clinic [Website](https://techkanhaiya.github.io/WebPages/clinic-website/task1.htm)
 
 - This is Dental Clinic Website made by me, using html css.
 
@@ -32,7 +32,7 @@ This repository contain projects made by me while Techpile Apprenticeship progra
 
 ----
 
-- Currency Converter [Website](https://codewithkanhaiya.github.io/WebPages/Currency%20Convertor/)
+- Currency Converter [Website](https://techkanhaiya.github.io/WebPages/Currency%20Convertor/)
 
 - This is Currency Converter made using html css.
 
@@ -44,7 +44,7 @@ This repository contain projects made by me while Techpile Apprenticeship progra
 
 ----
 
-- Chase [Website](https://codewithkanhaiya.github.io/WebPages/Keyboard_Calculater_Chase/08oct2022task1(chase).html)
+- Chase [Website](https://techkanhaiya.github.io/WebPages/Keyboard_Calculater_Chase/08oct2022task1(chase).html)
 
 - This is Chase Website made by me, using html css.
 
